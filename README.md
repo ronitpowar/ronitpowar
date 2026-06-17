@@ -78,7 +78,7 @@ Strong background in PHP, Laravel, MySQL, PostgreSQL, system architecture, code 
 - [`laravel-rest-api-platform`](https://github.com/ronitpowar/laravel-rest-api-platform)  
   Production-style Laravel API with authentication, versioning, testing, and documentation.
 
-- [`laravel-enterprise-saas`](https://github.com/ronitpowar/laravel-enterprise-saas)  
+- [`laravel-enterprise-saas`](https://github.com/ronitpowar/task_management_system)  
   Multi-tenant SaaS platform demonstrating scalable backend architecture and tenant-aware design.
 
 - [`erp-management-suite`](https://github.com/ronitpowar/erp-management-suite)  
@@ -129,7 +129,7 @@ Strong background in PHP, Laravel, MySQL, PostgreSQL, system architecture, code 
 
 - LinkedIn: https://www.linkedin.com/in/great-ronit-powar/
 - Email: ronitpowar92@gmail.com
-- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/ronitpowar)
+- GitHub: [https://github.com/ronitpowar](https://github.com/ronitpowar)
 
 ---
 
