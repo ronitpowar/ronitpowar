@@ -24,11 +24,6 @@ Backend-focused software engineer with 10 years of experience building SaaS plat
 
 ## Featured Projects
 - [`Task Management System (TMS)`](https://github.com/ronitpowar/task_management_system) — Production-grade Task Management System built with Laravel API and React SPA.
-- [`laravel-rest-api-platform`](https://github.com/ronitpowar/laravel-rest-api-platform) — Production-grade Laravel API template with auth, testing, and documentation
-- [`erp-management-suite`](https://github.com/ronitpowar/erp-management-suite) — ERP workflow system for internal business operations
-- [`crm-sales-platform`](https://github.com/ronitpowar/crm-sales-platform) — CRM platform for customer lifecycle and pipeline management
-- [`react-admin-analytics-dashboard`](https://github.com/ronitpowar/react-admin-analytics-dashboard) — Operational dashboard for reporting and admin workflows
-- [`ai-business-assistant-tool`](https://github.com/ronitpowar/ai-business-assistant-tool) — AI-powered business utility for automation and productivity
 
 ## Current Focus
 Building a public engineering portfolio that highlights production-style backend development, architecture thinking, technical leadership, documentation standards, and business-driven software design.
