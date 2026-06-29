@@ -5,7 +5,6 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/version-1.2.3-blue?style=for-the-badge&logo=vercel&logoColor=white" />
 
 # Ronit Powar
 
@@ -38,7 +37,8 @@ Backend-focused software engineer with 10 years of experience building SaaS plat
 Building a public engineering portfolio that highlights production-style backend development, architecture thinking, technical leadership, documentation standards, and business-driven software design.
 
 ## Connect
-- LinkedIn: [https://www.linkedin.com/in/great-ronit-powar/](https://www.linkedin.com/in/great-ronit-powar/)
+- LinkedIn: [https://www.linkedin.com/in/great-ronit-powar/](https://www.linkedin.com/in/ronit-powar/)
 - Email: [ronitpowar92@gmail.com](ronitpowar92@gmail.com)
 
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5
+
+<img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&logo=vercel&logoColor=white" />
