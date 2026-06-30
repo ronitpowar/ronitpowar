@@ -142,7 +142,7 @@ Building a public engineering portfolio that highlights production-style backend
 		<td>
 			<img src="https://img.shields.io/badge/SBI_Pay_API-0063A7?style=flat-square&logo=generic&logoColor=white" />
 			<img src="https://img.shields.io/badge/PayPal_API-003087?style=flat-square&logo=paypal&logoColor=white" />
-			<img src="https://img.shields.io/badge/Adyen_API-00FF66?style=flat-square&logo=adyen&logoColor=black" />
+			<img src="https://img.shields.io/badge/Adyen_API-494949?style=flat-square&logo=adyen&logoColor=00FF66" />
 			<img src="https://img.shields.io/badge/Stripe_API-008CDD?style=flat-square&logo=stripe&logoColor=white" />
 			<img src="https://img.shields.io/badge/Razorpay_API-0B44CD?style=flat-square&logo=razorpay&logoColor=white" />
 			<img src="https://img.shields.io/badge/CCAvenue_API-D32F2F?style=flat-square&logo=generic&logoColor=white" />
@@ -160,7 +160,7 @@ Building a public engineering portfolio that highlights production-style backend
 			<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
 			<img src="https://img.shields.io/badge/ElevenLabs-2C3E50?style=flat-square&logo=elevenlabs&logoColor=white" />
 			<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-			<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+			<img src="https://img.shields.io/badge/Hugging_Face-383838?style=flat-square&logo=huggingface&logoColor=FFD21E" />
 			<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white" />
 			<img src="https://img.shields.io/badge/Perplexity-20B2AA?style=flat-square&logo=perplexity&logoColor=white" />
 			<img src="https://img.shields.io/badge/Gamma-6D28D9?style=flat-square&logo=generic&logoColor=white" />
