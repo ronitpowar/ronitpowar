@@ -149,6 +149,25 @@ Building a public engineering portfolio that highlights production-style backend
 		</td>
 	</tr>
 	<tr>
+		<td align="center"><b>AI tools & GEN AI Automation</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+			<img src="https://img.shields.io/badge/Cursor_AI-0052CC?style=flat-square&logo=cursor&logoColor=white" />
+			<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+			<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+			<img src="https://img.shields.io/badge/ClaudeCode-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+			<img src="https://img.shields.io/badge/Canva_AI-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+			<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
+			<img src="https://img.shields.io/badge/ElevenLabs-2C3E50?style=flat-square&logo=elevenlabs&logoColor=white" />
+			<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+			<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+			<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white" />
+			<img src="https://img.shields.io/badge/Perplexity-20B2AA?style=flat-square&logo=perplexity&logoColor=white" />
+			<img src="https://img.shields.io/badge/Gamma-6D28D9?style=flat-square&logo=generic&logoColor=white" />
+			<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+		</td>
+	</tr>
+	<tr>
 		<td align="center"><b>Leadership & Comm</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/Technical_Leadership-0F172A?style=flat-square" />
