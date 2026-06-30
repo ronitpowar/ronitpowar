@@ -47,7 +47,7 @@ Building a public engineering portfolio that highlights production-style backend
 
 
 
-## TECHNICAL SKILLS
+## Skills & Tools
 
 <table>
 	<tr>
@@ -135,6 +135,17 @@ Building a public engineering portfolio that highlights production-style backend
 			<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 			<img src="https://img.shields.io/badge/Agile%2FScrum-0091EA?style=flat-square&logo=scrumalliance&logoColor=white" />
 			<img src="https://img.shields.io/badge/Code_Reviews-475569?style=flat-square" />
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><b>Payment Gateway Collabs</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/SBI_Pay_API-0063A7?style=flat-square&logo=generic&logoColor=white" />
+			<img src="https://img.shields.io/badge/PayPal_API-003087?style=flat-square&logo=paypal&logoColor=white" />
+			<img src="https://img.shields.io/badge/Adyen_API-00FF66?style=flat-square&logo=adyen&logoColor=black" />
+			<img src="https://img.shields.io/badge/Stripe_API-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+			<img src="https://img.shields.io/badge/Razorpay_API-0B44CD?style=flat-square&logo=razorpay&logoColor=white" />
+			<img src="https://img.shields.io/badge/CCAvenue_API-D32F2F?style=flat-square&logo=generic&logoColor=white" />
 		</td>
 	</tr>
 	<tr>
